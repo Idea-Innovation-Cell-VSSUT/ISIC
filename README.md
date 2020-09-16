@@ -4,10 +4,15 @@ IIC Specific Impulse Calculator (ISIC)
 Data
 ======
 2019-08-26 17:40:13	Reading: 0.02 kgs calibration_factor: -20000.00
+
 2019-08-26 17:40:13	Reading: 0.02 kgs calibration_factor: -20000.00
+
 2019-08-26 17:40:13	Reading: 0.12 kgs calibration_factor: -20000.00
+
 2019-08-26 17:40:13	Reading: 3.51 kgs calibration_factor: -20000.00
+
 2019-08-26 17:40:13	Reading: 13.61 kgs calibration_factor: -20000.00
+
 2019-08-26 17:40:14	Reading: 20.84 kgs calibration_factor: -20000.00
 2019-08-26 17:40:14	Reading: 22.81 kgs calibration_factor: -20000.00
 2019-08-26 17:40:14	Reading: 24.30 kgs calibration_factor: -20000.00
