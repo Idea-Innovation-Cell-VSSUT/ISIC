@@ -4,7 +4,9 @@ Solid rocket motors are a very effective and relatively simple method of propuls
 
 <h3>Dependencies</h3>
 1. Pandas (pip install pandas)
+<p>
 2. Matplotlib (pip install matplotlib)
+<p>
 3. Numpy (pip install numpy)
 
 ![Thrust vs Time Graph](https://github.com/rajdas2001/ISIC/blob/master/Thrust-vs-Time.png)
