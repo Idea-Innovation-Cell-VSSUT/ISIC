@@ -22,10 +22,12 @@ Solid rocket motors are a very effective and relatively simple method of propuls
 <b>Thrust Vs Time Graph</b>
 </p>
 
-<p>
- </p>
 
 ![Thrust vs Time Graph](https://github.com/rajdas2001/ISIC/blob/master/Thrust-vs-Time.png)
+
+
+<p>
+ </p>
 
  <p align="center">
 <b>Script Output displaying Impulse and Specific Impulse<b>
