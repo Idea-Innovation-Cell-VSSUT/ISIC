@@ -13,9 +13,9 @@ Solid rocket motors are a very effective and relatively simple method of propuls
 <ol>
 <li>After the static test is done, save the values in a text file according the format specified in the file 'data.txt'. The file should be named as 'data.txt' and should be in the directory as the script.</li>
 <li>Run the Python Script. The script plots the graph and gives the area under the curve which is the Impulse of the Motor.</li>
-`````
+~~~~~~
 python daq.py
-`````
+~~~~~~
 <li>It then asks the user for the amount of fuel taken. After the input is given, the script displays the Specific Impulse.</li>
 </ol>
 
